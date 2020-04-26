@@ -1,1 +1,0 @@
-# Handwritten_digit_recognizer
